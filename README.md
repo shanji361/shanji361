@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">Bioinformatics researcher passionate about cancer research.</h3>
+<h3 align="center">Bioinformatician passionate about cancer research.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanji361&label=Profile%20views&color=0e75b6&style=flat" alt="shanji361" /> </p>
 
-- 📫 How to reach me: **jishan@bu.edu**
+- 📫 Reach me at: **jishan@bu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
