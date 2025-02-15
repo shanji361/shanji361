@@ -6,8 +6,6 @@
 🚀 Exploring how bioinformatics can drive discoveries in cancer research
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanji361&label=Profile%20views&color=0e75b6&style=flat" alt="shanji361" /> </p>
-
 - 📫 Reach me at: **jishan@bu.edu**
 
 <h3 align="left">Connect with me:</h3>
