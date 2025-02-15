@@ -2,7 +2,7 @@
 <p align="center">
 📌 CS & Bioinformatics | Researcher at BU Medical School <br>
 🧬 Specializing in single-cell RNA-seq and spatial transcriptomics <br>
-💡 Interested in computational biology, multi-omics data analysis, and machine learning <br>
+💡 Interested in computational biology and multi-omics data analysis <br>
 🚀 Exploring how bioinformatics can drive discoveries in cancer research
 </p>
 
