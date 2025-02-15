@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">Bioinformatician passionate about cancer research.</h3>
+<p align="center">
+📌 CS & Bioinformatics | Researcher at BU Medical School <br>
+🧬 Specializing in single-cell RNA-seq and spatial transcriptomics <br>
+💡 Interested in computational biology, multi-omics data analysis, and machine learning <br>
+🚀 Exploring how bioinformatics can drive discoveries in cancer research
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanji361&label=Profile%20views&color=0e75b6&style=flat" alt="shanji361" /> </p>
 
