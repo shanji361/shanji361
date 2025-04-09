@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <p align="center">
-🔬 Current Focus: <br>
+Current Focus: <br>
 🤖 Medical robotics for rehabilitation <br>
 🧠 Reinforcement learning in physical human-robot interaction <br>
 🛠 Random sampling for motion planning and control  
