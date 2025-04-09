@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <p align="center">
-📌 CS & Bioinformatics | Researcher at BU Medical School <br>
-🧬 Specializing in single-cell RNA-seq and spatial transcriptomics <br>
-💡 Interested in computational biology and multi-omics data analysis <br>
-🚀 Exploring how bioinformatics can drive discoveries in cancer research
+🔬 Current Focus: <br>
+🤖 Medical robotics for rehabilitation <br>
+🧠 Reinforcement learning in physical human-robot interaction <br>
+🛠 Random sampling for motion planning and control  
 </p>
 
 - 📫 Reach me at: **jishan@bu.edu**
