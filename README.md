@@ -2,7 +2,6 @@
 <p align="center">
 🤖 Medical robotics <br>
 🧠 Reinforcement learning in physical human-robot interaction <br>
-🛠 Random sampling for motion planning and control  
 </p>
 
 - 📫 Reach me at: **jishan@bu.edu**
