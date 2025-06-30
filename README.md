@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <p align="center">
 🤖 Medical robotics <br>
-🧠 Reinforcement learning in physical human-robot interaction <br>
+🧠 Reinforcement learning in human-robot interactions <br>
 </p>
 
 - 📫 Reach me at: **jishan@bu.edu**
